@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "legacy_uid": "05c88cc5-1a21-e5a9-2f5c-2e8ccbb93c91",
+  "instructors": {
+    "content": [
+      "927c0e83-0726-2a13-457c-231aa647d35e",
+      "30477374-1d46-7b4a-7b72-5871104afbc1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7641390c-3bac-90c3-481b-9fea5e26d54e",
+    "website": "5-12-organic-chemistry-i-spring-2003"
+  },
+  "course_title": "Organic Chemistry I",
+  "course_description": "5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.12",
+  "course_image_thumbnail": {
+    "content": "5526c3ea-4c6c-e30b-b244-6bdebd17eb1d",
+    "website": "5-12-organic-chemistry-i-spring-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "00b7c57e-b7c2-4c6a-9993-d33199b733fe",
+  "site_short_id": "5.12-spring-2003",
+  "title": "Course Metadata"
+}
